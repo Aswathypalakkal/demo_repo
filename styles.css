@@ -1,0 +1,25 @@
+ h2, h3, h4, h5, h6 {
+  
+    font-family: 'Poppins', sans-serif;
+    
+
+}
+h1 {
+    font-family: 'Garet', sans-serif;
+    text-align: center; /* Center the text */
+    font-weight: bold; /* Make text bold */
+}
+p {
+    font-family: 'Poppins', sans-serif;
+}
+body {
+   
+    font-size: 16px; /* Minimum font size for readability */
+    line-height: 1.6; /* Increased line height for better readability */
+    margin-top: 20px;    /* Top margin */
+    margin-right: 20px;  /* Right margin */
+    margin-bottom: 20px; /* Bottom margin */
+    margin-left: 20px;   /* Left margin */
+}
+
+

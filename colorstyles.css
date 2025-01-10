@@ -1,0 +1,33 @@
+title {
+    color: black; 
+}
+
+h1 {
+    color: black;
+}
+
+h2 {
+    color: black;
+}
+
+p {
+    color: black;
+}
+
+body {
+    background-color: white; /* White background color */
+}
+
+/* Unvisited link styles */
+a:link {
+    color: blue; /* Color for unvisited links */
+    text-decoration: none; /* No underline */
+}
+
+/* Visited link styles */
+a:visited {
+    color: purple; /* Color for visited links */
+    text-decoration: none; /* No underline */
+}
+
+
